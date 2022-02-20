@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+body{
+    background-color: #1D1D1D;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+main{
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+/* PÁGINA DOS CURSOS */
+
+.caixa-iframe{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.footer{
+    text-align: center;
+    margin: auto;
+    font-size: 18px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
